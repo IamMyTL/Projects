@@ -49,3 +49,16 @@ Les admin ont accès à un dashboard affichant tout les participant et ils peuve
 de l'activité. Ils peuvent aussi modifier ou supprimer un participant.
 
 Ce projet était mon premier examen en php.
+
+## AuthenPass
+Dans le cadre de mon travail de fin d'études, j'ai collaboré avec un ami étudiant pour développer un
+gestionnaire de mots de passe. Cette initiative a été couronnée de succès, puisque nous avons reçu
+notre diplôme avec grande distinction pour ce projet. Nous avons créé une version web en utilisant
+Laravel et une version mobile avec MAUI. Les données sont synchronisées entre les deux services
+grâce à une API.
+Vous pouvez voir le site ici : https://authenpass.mytltw.com/
+L’application mobile n’est pas encore publique mais voici une vidéo présentant ce qui a déjà été fait :
+https://youtu.be/vMZKr5neTYs?si=erHdFTz_mTiWWLIj
+
+Je ne rend pas le code publique car nous chiffrons des données et nous comptons encore travailler sur
+ce projet dans le futur.
